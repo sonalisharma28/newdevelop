@@ -5,5 +5,6 @@ public class DemoClass {
 		System.out.println("Hello World!");
 		System.out.println("changes in master");
 		
+		System.out.println("Hi");
 	}
 }
