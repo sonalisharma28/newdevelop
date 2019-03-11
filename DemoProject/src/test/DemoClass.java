@@ -6,5 +6,6 @@ public class DemoClass {
 		System.out.println("changes in master");
 		
 		System.out.println("Hi");
+		System.out.println("to practice conflicts");
 	}
 }
