@@ -5,5 +5,6 @@ public class DemoClass {
 		System.out.println("Hello World!");
 		System.out.println("Hi");
 		System.out.println("To resolve");
+		System.out.println("once more");
 	}
 }
